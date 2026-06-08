@@ -15,6 +15,7 @@
 | `Count_vowels_consonants.txt` | Count vowels and consonants in a string |
 | `Even_odd_num.txt` | Check whether a number is even or odd |
 | `Fibonacci_series.txt` | Generate Fibonacci series up to N terms |
+| `Factorial_recursion.txt` | Calculate factorial of a number using recursion |
 
 ---
 
